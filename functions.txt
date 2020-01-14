@@ -1,0 +1,10 @@
+tf.keras.utils #to prepocess data
+
+model = tf.keras.Sequential()
+- methods:
+model.compile()
+model.fit()
+
+tf.keras.layers
+tf.keras.callbacks.TensorBoard()
+
